@@ -1,0 +1,273 @@
+0000.001 (0) Opened log file at time: Tue, 10 Dec 2019 15:24:11 +0000 on http://localhost/myblog
+0000.036 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.21 WP: 5.3 PHP: 7.3.11 (apache2handler, Windows NT LAPTOP-VM2S145O 10.0 build 18362 (Windows 10) AMD64) MySQL: 10.4.8-MariaDB WPLANG: en_US Server: Apache/2.4.41 (Win64) OpenSSL/1.1.1c PHP/7.3.11 safe_mode: 0 max_execution_time: 900 memory_limit: 512M (used: 47.1M | 6M) multisite: N openssl: OpenSSL 1.1.1d  10 Sep 2019 mcrypt: N LANG:  ZipArchive::addFile: Y
+0000.067 (0) Free space on disk containing Updraft's temporary directory: 742044.3 MB
+0000.115 (0) Tasks: Backup files: 1 (schedule: manual) Backup DB: 1 (schedule: manual)
+0000.236 (0) Requesting semaphore lock (fd) (apparently not via scheduler)
+0000.369 (0) Set semaphore last lock (fd) time to 2019-12-10 15:24:11
+0000.400 (0) Semaphore lock (fd) complete
+0000.500 (0) Backup run: resumption=0, nonce=0df6f28d7d15, file_nonce=0df6f28d7d15 begun at=1575991451 (0s ago), job type=backup
+0000.567 (0) Scheduling a resumption (1) after 300 seconds (1575991751) in case this run gets aborted
+0000.656 (0) Checking if we have a zip executable available
+0000.722 (0) Creation of backups of directories: beginning
+0000.825 (0) Beginning creation of dump of plugins (split every: 400 MB)
+0004.688 (0) Total entities for the zip file: 880 directories, 5161 files (0 skipped as non-modified), 67.5 MB
+0004.736 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 MB, 1 (1) files added so far); re-opening (prior size: 0 KB)
+0005.010 (0) Zip: backup_2019-12-10-1524_Myblog_0df6f28d7d15-plugins.zip.tmp: 100 files added (on-disk size: 161 KB)
+0005.121 (0) Zip: backup_2019-12-10-1524_Myblog_0df6f28d7d15-plugins.zip.tmp: 200 files added (on-disk size: 161 KB)
+0005.235 (0) Zip: backup_2019-12-10-1524_Myblog_0df6f28d7d15-plugins.zip.tmp: 300 files added (on-disk size: 161 KB)
+0005.355 (0) Zip: backup_2019-12-10-1524_Myblog_0df6f28d7d15-plugins.zip.tmp: 400 files added (on-disk size: 161 KB)
+0005.457 (0) Zip: backup_2019-12-10-1524_Myblog_0df6f28d7d15-plugins.zip.tmp: 500 files added (on-disk size: 161 KB)
+0005.480 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (13.5 MB, 5161 files batched, 501 (502) added so far); re-opening (prior size: 161 KB)
+0006.805 (0) Zip: backup_2019-12-10-1524_Myblog_0df6f28d7d15-plugins.zip.tmp: 600 files added (on-disk size: 4510.7 KB)
+0006.933 (0) Zip: backup_2019-12-10-1524_Myblog_0df6f28d7d15-plugins.zip.tmp: 700 files added (on-disk size: 4510.7 KB)
+0007.045 (0) Zip: backup_2019-12-10-1524_Myblog_0df6f28d7d15-plugins.zip.tmp: 800 files added (on-disk size: 4510.7 KB)
+0007.155 (0) Zip: backup_2019-12-10-1524_Myblog_0df6f28d7d15-plugins.zip.tmp: 900 files added (on-disk size: 4510.7 KB)
+0007.256 (0) Zip: backup_2019-12-10-1524_Myblog_0df6f28d7d15-plugins.zip.tmp: 1000 files added (on-disk size: 4510.7 KB)
+0007.280 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (7 MB, 5161 files batched, 501 (1003) added so far); re-opening (prior size: 4510.7 KB)
+0008.153 (0) Zip: backup_2019-12-10-1524_Myblog_0df6f28d7d15-plugins.zip.tmp: 1100 files added (on-disk size: 6627.2 KB)
+0008.302 (0) Zip: backup_2019-12-10-1524_Myblog_0df6f28d7d15-plugins.zip.tmp: 1200 files added (on-disk size: 6627.2 KB)
+0008.410 (0) Zip: backup_2019-12-10-1524_Myblog_0df6f28d7d15-plugins.zip.tmp: 1300 files added (on-disk size: 6627.2 KB)
+0008.542 (0) Zip: backup_2019-12-10-1524_Myblog_0df6f28d7d15-plugins.zip.tmp: 1400 files added (on-disk size: 6627.2 KB)
+0008.653 (0) Zip: backup_2019-12-10-1524_Myblog_0df6f28d7d15-plugins.zip.tmp: 1500 files added (on-disk size: 6627.2 KB)
+0008.695 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (5.8 MB, 5161 files batched, 501 (1504) added so far); re-opening (prior size: 6627.2 KB)
+0009.402 (0) Zip: backup_2019-12-10-1524_Myblog_0df6f28d7d15-plugins.zip.tmp: 1600 files added (on-disk size: 9059.7 KB)
+0009.583 (0) Zip: backup_2019-12-10-1524_Myblog_0df6f28d7d15-plugins.zip.tmp: 1700 files added (on-disk size: 9059.7 KB)
+0009.862 (0) Zip: backup_2019-12-10-1524_Myblog_0df6f28d7d15-plugins.zip.tmp: 1800 files added (on-disk size: 9059.7 KB)
+0009.972 (0) Zip: backup_2019-12-10-1524_Myblog_0df6f28d7d15-plugins.zip.tmp: 1900 files added (on-disk size: 9059.7 KB)
+0010.079 (0) Zip: backup_2019-12-10-1524_Myblog_0df6f28d7d15-plugins.zip.tmp: 2000 files added (on-disk size: 9059.7 KB)
+0010.116 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (3.7 MB, 5161 files batched, 501 (2005) added so far); re-opening (prior size: 9059.7 KB)
+0011.085 (0) Zip: backup_2019-12-10-1524_Myblog_0df6f28d7d15-plugins.zip.tmp: 2100 files added (on-disk size: 10229.2 KB)
+0011.195 (0) Zip: backup_2019-12-10-1524_Myblog_0df6f28d7d15-plugins.zip.tmp: 2200 files added (on-disk size: 10229.2 KB)
+0011.307 (0) Zip: backup_2019-12-10-1524_Myblog_0df6f28d7d15-plugins.zip.tmp: 2300 files added (on-disk size: 10229.2 KB)
+0011.419 (0) Zip: backup_2019-12-10-1524_Myblog_0df6f28d7d15-plugins.zip.tmp: 2400 files added (on-disk size: 10229.2 KB)
+0011.531 (0) Zip: backup_2019-12-10-1524_Myblog_0df6f28d7d15-plugins.zip.tmp: 2500 files added (on-disk size: 10229.2 KB)
+0011.572 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (6.1 MB, 5161 files batched, 501 (2506) added so far); re-opening (prior size: 10229.2 KB)
+0012.277 (0) Zip: backup_2019-12-10-1524_Myblog_0df6f28d7d15-plugins.zip.tmp: 2600 files added (on-disk size: 12293.5 KB)
+0012.390 (0) Zip: backup_2019-12-10-1524_Myblog_0df6f28d7d15-plugins.zip.tmp: 2700 files added (on-disk size: 12293.5 KB)
+0012.524 (0) Zip: backup_2019-12-10-1524_Myblog_0df6f28d7d15-plugins.zip.tmp: 2800 files added (on-disk size: 12293.5 KB)
+0013.303 (0) Zip: backup_2019-12-10-1524_Myblog_0df6f28d7d15-plugins.zip.tmp: 2900 files added (on-disk size: 12293.5 KB)
+0013.439 (0) Zip: backup_2019-12-10-1524_Myblog_0df6f28d7d15-plugins.zip.tmp: 3000 files added (on-disk size: 12293.5 KB)
+0013.522 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (14.8 MB, 5161 files batched, 501 (3007) added so far); re-opening (prior size: 12293.5 KB)
+0015.320 (0) Zip: backup_2019-12-10-1524_Myblog_0df6f28d7d15-plugins.zip.tmp: 3100 files added (on-disk size: 16271 KB)
+0015.556 (0) Zip: backup_2019-12-10-1524_Myblog_0df6f28d7d15-plugins.zip.tmp: 3200 files added (on-disk size: 16271 KB)
+0015.668 (0) Zip: backup_2019-12-10-1524_Myblog_0df6f28d7d15-plugins.zip.tmp: 3300 files added (on-disk size: 16271 KB)
+0015.784 (0) Zip: backup_2019-12-10-1524_Myblog_0df6f28d7d15-plugins.zip.tmp: 3400 files added (on-disk size: 16271 KB)
+0015.900 (0) Zip: backup_2019-12-10-1524_Myblog_0df6f28d7d15-plugins.zip.tmp: 3500 files added (on-disk size: 16271 KB)
+0015.931 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (2.6 MB, 5161 files batched, 501 (3508) added so far); re-opening (prior size: 16271 KB)
+0018.155 (0) Zip: backup_2019-12-10-1524_Myblog_0df6f28d7d15-plugins.zip.tmp: 3600 files added (on-disk size: 17167.1 KB)
+0018.312 (0) Zip: backup_2019-12-10-1524_Myblog_0df6f28d7d15-plugins.zip.tmp: 3700 files added (on-disk size: 17167.1 KB)
+0018.423 (0) Zip: backup_2019-12-10-1524_Myblog_0df6f28d7d15-plugins.zip.tmp: 3800 files added (on-disk size: 17167.1 KB)
+0018.597 (0) Zip: backup_2019-12-10-1524_Myblog_0df6f28d7d15-plugins.zip.tmp: 3900 files added (on-disk size: 17167.1 KB)
+0018.729 (0) Zip: backup_2019-12-10-1524_Myblog_0df6f28d7d15-plugins.zip.tmp: 4000 files added (on-disk size: 17167.1 KB)
+0018.765 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (6.7 MB, 5161 files batched, 501 (4009) added so far); re-opening (prior size: 17167.1 KB)
+0020.189 (0) Zip: backup_2019-12-10-1524_Myblog_0df6f28d7d15-plugins.zip.tmp: 4100 files added (on-disk size: 20164.1 KB)
+0020.309 (0) Zip: backup_2019-12-10-1524_Myblog_0df6f28d7d15-plugins.zip.tmp: 4200 files added (on-disk size: 20164.1 KB)
+0020.412 (0) Zip: backup_2019-12-10-1524_Myblog_0df6f28d7d15-plugins.zip.tmp: 4300 files added (on-disk size: 20164.1 KB)
+0020.560 (0) Zip: backup_2019-12-10-1524_Myblog_0df6f28d7d15-plugins.zip.tmp: 4400 files added (on-disk size: 20164.1 KB)
+0020.667 (0) Zip: backup_2019-12-10-1524_Myblog_0df6f28d7d15-plugins.zip.tmp: 4500 files added (on-disk size: 20164.1 KB)
+0020.785 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (3.6 MB, 5161 files batched, 501 (4510) added so far); re-opening (prior size: 20164.1 KB)
+0021.525 (0) Zip: backup_2019-12-10-1524_Myblog_0df6f28d7d15-plugins.zip.tmp: 4600 files added (on-disk size: 21067.9 KB)
+0023.189 (0) Zip: backup_2019-12-10-1524_Myblog_0df6f28d7d15-plugins.zip.tmp: 4700 files added (on-disk size: 21067.9 KB)
+0023.345 (0) Zip: backup_2019-12-10-1524_Myblog_0df6f28d7d15-plugins.zip.tmp: 4800 files added (on-disk size: 21067.9 KB)
+0023.453 (0) Zip: backup_2019-12-10-1524_Myblog_0df6f28d7d15-plugins.zip.tmp: 4900 files added (on-disk size: 21067.9 KB)
+0023.570 (0) Zip: backup_2019-12-10-1524_Myblog_0df6f28d7d15-plugins.zip.tmp: 5000 files added (on-disk size: 21067.9 KB)
+0023.621 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (2.2 MB, 5161 files batched, 501 (5011) added so far); re-opening (prior size: 21067.9 KB)
+0024.286 (0) Zip: backup_2019-12-10-1524_Myblog_0df6f28d7d15-plugins.zip.tmp: 5100 files added (on-disk size: 21907.4 KB)
+0025.844 (0) Created plugins zip (0) - 22303.9 KB in 25 s (892.4 KB/s) (sha1: ef7d4b4aa91632a9ff2c1795bcf03c2b7fbc1957, sha256: d22f63c1db31cb5f103caf1f737b13ae403e9f6a0c88b9ceab9f9277d197328b)
+0025.946 (0) Beginning creation of dump of themes (split every: 400 MB)
+0026.677 (0) Total entities for the zip file: 154 directories, 819 files (0 skipped as non-modified), 16.1 MB
+0026.840 (0) Zip: backup_2019-12-10-1524_Myblog_0df6f28d7d15-themes.zip.tmp: 100 files added (on-disk size: 0 KB)
+0026.945 (0) Zip: backup_2019-12-10-1524_Myblog_0df6f28d7d15-themes.zip.tmp: 200 files added (on-disk size: 0 KB)
+0027.055 (0) Zip: backup_2019-12-10-1524_Myblog_0df6f28d7d15-themes.zip.tmp: 300 files added (on-disk size: 0 KB)
+0027.156 (0) Zip: backup_2019-12-10-1524_Myblog_0df6f28d7d15-themes.zip.tmp: 400 files added (on-disk size: 0 KB)
+0027.265 (0) Zip: backup_2019-12-10-1524_Myblog_0df6f28d7d15-themes.zip.tmp: 500 files added (on-disk size: 0 KB)
+0027.304 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (11.1 MB, 819 files batched, 501 (501) added so far); re-opening (prior size: 0 KB)
+0028.318 (0) Zip: backup_2019-12-10-1524_Myblog_0df6f28d7d15-themes.zip.tmp: 600 files added (on-disk size: 3154.2 KB)
+0028.434 (0) Zip: backup_2019-12-10-1524_Myblog_0df6f28d7d15-themes.zip.tmp: 700 files added (on-disk size: 3154.2 KB)
+0028.549 (0) Zip: backup_2019-12-10-1524_Myblog_0df6f28d7d15-themes.zip.tmp: 800 files added (on-disk size: 3154.2 KB)
+0029.018 (0) Created themes zip (0) - 6074.4 KB in 3 s (2020.7 KB/s) (sha1: 0d0f5d97daaa47870c9d382dd4f60327cb68afe3, sha256: 9047c903783bb31e6bacc5a7a606ce29e6e3d89a21983d4a780229bb75d1a76b)
+0029.081 (0) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone,snapshots
+0029.112 (0) Looking for candidates to backup in: C:\xampp\htdocs\myblog/wp-content/uploads
+0029.139 (0) finding files: 2016: adding to list (1)
+0029.190 (0) finding files: 2019: adding to list (2)
+0029.215 (0) finding files: elementor: adding to list (3)
+0029.338 (0) Beginning creation of dump of uploads (split every: 400 MB)
+0029.465 (0) Total entities for the zip file: 7 directories, 95 files (0 skipped as non-modified), 2.9 MB
+0029.707 (0) Created uploads zip (0) - 2941.6 KB in 0.3 s (8911.5 KB/s) (sha1: e0bbdd03cdfa0645cce377a74ce88ce174f041aa, sha256: 17ac1ce9fb98fa80b4a145904b2dce1e0bf0fd47e6d50d08924a58a56c6ecee7)
+0029.748 (0) Beginning backup of other directories found in the content directory (index: 0)
+0029.768 (0) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups,mysql.sql,debug.log
+0029.792 (0) Looking for candidates to backup in: C:\xampp\htdocs\myblog/wp-content
+0029.825 (0) finding files: index.php: adding to list (1)
+0029.859 (0) finding files: plugins: skipping: this is the plugins directory
+0029.890 (0) finding files: themes: skipping: this is the themes directory
+0029.971 (0) finding files: updraft: skipping: this is the updraft directory
+0030.004 (0) finding files: upgrade: skipping: excluded by options
+0030.035 (0) finding files: uploads: skipping: this is the uploads directory
+0030.149 (0) Total entities for the zip file: 0 directories, 1 files (0 skipped as non-modified), 0 MB
+0030.349 (0) Created others zip (0) - 0.1 KB in 0.2 s (0.6 KB/s) (sha1: bb0bf4e983ea6269821c444425c8bb391e6f2308, sha256: b49fea4b112506aaf11c99f788ecb770c1cc13e137171eb3267fbb0fbb8d5c48)
+0030.468 (0) Saving backup status to database (elements: 8)
+0030.535 (0) Beginning creation of database dump (WordPress DB)
+0030.658 (0) Table wp_options: Total expected rows (approximate): 252
+0031.087 (0) Table wp_options: Total rows added: 254 in 0.41 seconds
+0031.115 (0) Table wp_options: finishing file (backup_2019-12-10-1524_Myblog_0df6f28d7d15-db-table-wp_options.table.gz - 252.4 KB)
+0031.191 (0) Table wp_users: Total expected rows (approximate): 0
+0031.247 (0) Table wp_users: Total rows added: 1 in 0.03 seconds
+0031.280 (0) Table wp_users: finishing file (backup_2019-12-10-1524_Myblog_0df6f28d7d15-db-table-wp_users.table.gz - 0.6 KB)
+0031.627 (0) Table wp_usermeta: Total expected rows (approximate): 19
+0031.675 (0) Table wp_usermeta: Total rows added: 19 in 0.01 seconds
+0031.726 (0) Table wp_usermeta: finishing file (backup_2019-12-10-1524_Myblog_0df6f28d7d15-db-table-wp_usermeta.table.gz - 1.2 KB)
+0031.905 (0) Table wp_commentmeta: Total expected rows (approximate): 26
+0032.006 (0) Table wp_commentmeta: Total rows added: 26 in 0.02 seconds
+0032.048 (0) Table wp_commentmeta: finishing file (backup_2019-12-10-1524_Myblog_0df6f28d7d15-db-table-wp_commentmeta.table.gz - 0.7 KB)
+0032.207 (0) Table wp_comments: Total expected rows (approximate): 13
+0032.310 (0) Table wp_comments: Total rows added: 13 in 0.04 seconds
+0032.373 (0) Table wp_comments: finishing file (backup_2019-12-10-1524_Myblog_0df6f28d7d15-db-table-wp_comments.table.gz - 1.4 KB)
+0032.570 (0) Table wp_links: Total expected rows (approximate): 0
+0032.626 (0) Table wp_links: Total rows added: 0 in 0.03 seconds
+0032.670 (0) Table wp_links: finishing file (backup_2019-12-10-1524_Myblog_0df6f28d7d15-db-table-wp_links.table.gz - 0.4 KB)
+0032.838 (0) Table wp_postmeta: Total expected rows (approximate): 1059
+0032.978 (0) Table wp_postmeta: Total rows added: 1059 in 0.09 seconds
+0033.036 (0) Table wp_postmeta: finishing file (backup_2019-12-10-1524_Myblog_0df6f28d7d15-db-table-wp_postmeta.table.gz - 11.1 KB)
+0033.138 (0) Table wp_posts: Total expected rows (approximate): 75
+0033.237 (0) Table wp_posts: Total rows added: 75 in 0.08 seconds
+0033.294 (0) Table wp_posts: finishing file (backup_2019-12-10-1524_Myblog_0df6f28d7d15-db-table-wp_posts.table.gz - 18.1 KB)
+0033.480 (0) Table wp_term_relationships: Total expected rows (approximate): 31
+0033.532 (0) Table wp_term_relationships: Total rows added: 28 in 0.03 seconds
+0033.570 (0) Table wp_term_relationships: finishing file (backup_2019-12-10-1524_Myblog_0df6f28d7d15-db-table-wp_term_relationships.table.gz - 0.4 KB)
+0033.682 (0) Table wp_term_taxonomy: Total expected rows (approximate): 9
+0033.751 (0) Table wp_term_taxonomy: Total rows added: 9 in 0.03 seconds
+0033.793 (0) Table wp_term_taxonomy: finishing file (backup_2019-12-10-1524_Myblog_0df6f28d7d15-db-table-wp_term_taxonomy.table.gz - 0.5 KB)
+0034.002 (0) Table wp_termmeta: Total expected rows (approximate): 0
+0034.093 (0) Table wp_termmeta: Total rows added: 0 in 0.06 seconds
+0034.137 (0) Table wp_termmeta: finishing file (backup_2019-12-10-1524_Myblog_0df6f28d7d15-db-table-wp_termmeta.table.gz - 0.4 KB)
+0034.247 (0) Table wp_terms: Total expected rows (approximate): 9
+0034.318 (0) Table wp_terms: Total rows added: 9 in 0.05 seconds
+0034.389 (0) Table wp_terms: finishing file (backup_2019-12-10-1524_Myblog_0df6f28d7d15-db-table-wp_terms.table.gz - 0.5 KB)
+0034.672 (0) Table wp_rank_math_404_logs: Total expected rows (approximate): 0
+0034.714 (0) Table wp_rank_math_404_logs: Total rows added: 0 in 0.02 seconds
+0034.739 (0) Table wp_rank_math_404_logs: finishing file (backup_2019-12-10-1524_Myblog_0df6f28d7d15-db-table-wp_rank_math_404_logs.table.gz - 0.4 KB)
+0034.815 (0) Table wp_rank_math_internal_links: Total expected rows (approximate): 0
+0034.930 (0) Table wp_rank_math_internal_links: Total rows added: 0 in 0.09 seconds
+0034.982 (0) Table wp_rank_math_internal_links: finishing file (backup_2019-12-10-1524_Myblog_0df6f28d7d15-db-table-wp_rank_math_internal_links.table.gz - 0.4 KB)
+0035.228 (0) Table wp_rank_math_internal_meta: Total expected rows (approximate): 0
+0035.701 (0) Table wp_rank_math_internal_meta: Total rows added: 0 in 0.28 seconds
+0035.784 (0) Table wp_rank_math_internal_meta: finishing file (backup_2019-12-10-1524_Myblog_0df6f28d7d15-db-table-wp_rank_math_internal_meta.table.gz - 0.3 KB)
+0036.027 (0) Table wp_rank_math_redirections: Total expected rows (approximate): 0
+0036.158 (0) Table wp_rank_math_redirections: Total rows added: 0 in 0.09 seconds
+0036.193 (0) Table wp_rank_math_redirections: finishing file (backup_2019-12-10-1524_Myblog_0df6f28d7d15-db-table-wp_rank_math_redirections.table.gz - 0.4 KB)
+0036.371 (0) Table wp_rank_math_redirections_cache: Total expected rows (approximate): 0
+0036.460 (0) Table wp_rank_math_redirections_cache: Total rows added: 0 in 0.06 seconds
+0036.496 (0) Table wp_rank_math_redirections_cache: finishing file (backup_2019-12-10-1524_Myblog_0df6f28d7d15-db-table-wp_rank_math_redirections_cache.table.gz - 0.4 KB)
+0036.672 (0) Table wp_rank_math_sc_analytics: Total expected rows (approximate): 0
+0036.784 (0) Table wp_rank_math_sc_analytics: Total rows added: 0 in 0.07 seconds
+0036.836 (0) Table wp_rank_math_sc_analytics: finishing file (backup_2019-12-10-1524_Myblog_0df6f28d7d15-db-table-wp_rank_math_sc_analytics.table.gz - 0.4 KB)
+0037.022 (0) backup_2019-12-10-1524_Myblog_0df6f28d7d15-db-table-wp_options.table.gz (1/18): adding to final database dump
+0037.137 (0) backup_2019-12-10-1524_Myblog_0df6f28d7d15-db-table-wp_users.table.gz (2/18): adding to final database dump
+0037.213 (0) backup_2019-12-10-1524_Myblog_0df6f28d7d15-db-table-wp_usermeta.table.gz (3/18): adding to final database dump
+0037.248 (0) backup_2019-12-10-1524_Myblog_0df6f28d7d15-db-table-wp_commentmeta.table.gz (4/18): adding to final database dump
+0037.292 (0) backup_2019-12-10-1524_Myblog_0df6f28d7d15-db-table-wp_comments.table.gz (5/18): adding to final database dump
+0037.316 (0) backup_2019-12-10-1524_Myblog_0df6f28d7d15-db-table-wp_links.table.gz (6/18): adding to final database dump
+0037.347 (0) backup_2019-12-10-1524_Myblog_0df6f28d7d15-db-table-wp_postmeta.table.gz (7/18): adding to final database dump
+0037.376 (0) backup_2019-12-10-1524_Myblog_0df6f28d7d15-db-table-wp_posts.table.gz (8/18): adding to final database dump
+0037.426 (0) backup_2019-12-10-1524_Myblog_0df6f28d7d15-db-table-wp_term_relationships.table.gz (9/18): adding to final database dump
+0037.460 (0) backup_2019-12-10-1524_Myblog_0df6f28d7d15-db-table-wp_term_taxonomy.table.gz (10/18): adding to final database dump
+0037.492 (0) backup_2019-12-10-1524_Myblog_0df6f28d7d15-db-table-wp_termmeta.table.gz (11/18): adding to final database dump
+0037.616 (0) backup_2019-12-10-1524_Myblog_0df6f28d7d15-db-table-wp_terms.table.gz (12/18): adding to final database dump
+0037.647 (0) backup_2019-12-10-1524_Myblog_0df6f28d7d15-db-table-wp_rank_math_404_logs.table.gz (13/18): adding to final database dump
+0037.827 (0) backup_2019-12-10-1524_Myblog_0df6f28d7d15-db-table-wp_rank_math_internal_links.table.gz (14/18): adding to final database dump
+0037.902 (0) backup_2019-12-10-1524_Myblog_0df6f28d7d15-db-table-wp_rank_math_internal_meta.table.gz (15/18): adding to final database dump
+0037.937 (0) backup_2019-12-10-1524_Myblog_0df6f28d7d15-db-table-wp_rank_math_redirections.table.gz (16/18): adding to final database dump
+0037.969 (0) backup_2019-12-10-1524_Myblog_0df6f28d7d15-db-table-wp_rank_math_redirections_cache.table.gz (17/18): adding to final database dump
+0038.005 (0) backup_2019-12-10-1524_Myblog_0df6f28d7d15-db-table-wp_rank_math_sc_analytics.table.gz (18/18): adding to final database dump
+0038.065 (0) backup_2019-12-10-1524_Myblog_0df6f28d7d15-db.gz: finished writing out complete database file (272 KB)
+0038.282 (0) Total database tables backed up: 18 (backup_2019-12-10-1524_Myblog_0df6f28d7d15-db.gz, size: 293233, sha1: 48a73784d1139adbfe88c688ccc960ae461f737a, sha256: fcb8e775ad1943dfbae1d5949aecb1c36e200ef533880e8186360d4841c8d596)
+0038.438 (0) backup_2019-12-10-1524_Myblog_0df6f28d7d15-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+0038.470 (0) backup_2019-12-10-1524_Myblog_0df6f28d7d15-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+0038.493 (0) backup_2019-12-10-1524_Myblog_0df6f28d7d15-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+0038.524 (0) backup_2019-12-10-1524_Myblog_0df6f28d7d15-others.zip: others: This file has not yet been successfully uploaded: will queue
+0038.548 (0) backup_2019-12-10-1524_Myblog_0df6f28d7d15-db.gz: db: This file has not yet been successfully uploaded: will queue
+0038.579 (0) Saving backup history. Total backup size: 30.9 MB
+0038.646 (0) Requesting upload of the files that have not yet been successfully uploaded (5)
+0038.770 (0) Cloud backup selection (1/1): googledrive with instance (1/1) (last)
+0039.002 (0) Beginning dispatch of backup to remote (googledrive) (instance identifier s-6e11d85fbf8f495148b2ec35a2ff77f4)
+0041.152 (0) Google Drive: creating path: /UpdraftPlus
+0042.984 (0) Google Drive: quota usage: used=173.1 MB, total=15360 MB, available=15186.9 MB
+0043.057 (0) Google Drive: backup_2019-12-10-1524_Myblog_0df6f28d7d15-plugins.zip: Attempting to upload to Google Drive (into folder id: 1IoZjmjwYKYw5rcyWcUXJwoGfFfzqNTuR)
+0044.991 (0) Googledrive chunked upload: 4.6 % uploaded (1048576)
+0045.780 (0) Googledrive chunked upload: 9.2 % uploaded (2097152)
+0046.605 (0) Googledrive chunked upload: 13.8 % uploaded (3145728)
+0047.649 (0) Googledrive chunked upload: 18.4 % uploaded (4194304)
+0048.369 (0) Googledrive chunked upload: 23 % uploaded (5242880)
+0049.193 (0) Googledrive chunked upload: 27.5 % uploaded (6291456)
+0049.949 (0) Googledrive chunked upload: 32.1 % uploaded (7340032)
+0050.771 (0) Googledrive chunked upload: 36.7 % uploaded (8388608)
+0051.659 (0) Googledrive chunked upload: 41.3 % uploaded (9437184)
+0052.504 (0) Googledrive chunked upload: 45.9 % uploaded (10485760)
+0053.482 (0) Googledrive chunked upload: 50.5 % uploaded (11534336)
+0054.347 (0) Googledrive chunked upload: 55.1 % uploaded (12582912)
+0055.182 (0) Googledrive chunked upload: 59.7 % uploaded (13631488)
+0056.048 (0) Googledrive chunked upload: 64.3 % uploaded (14680064)
+0056.773 (0) Googledrive chunked upload: 68.9 % uploaded (15728640)
+0057.471 (0) Googledrive chunked upload: 73.5 % uploaded (16777216)
+0058.143 (0) Googledrive chunked upload: 78 % uploaded (17825792)
+0059.019 (0) Googledrive chunked upload: 82.6 % uploaded (18874368)
+0059.852 (0) Googledrive chunked upload: 87.2 % uploaded (19922944)
+0060.589 (0) Googledrive chunked upload: 91.8 % uploaded (20971520)
+0061.354 (0) Googledrive chunked upload: 96.4 % uploaded (22020096)
+0063.426 (0) Googledrive chunked upload: 100 % uploaded (22020096)
+0063.494 (0) Google Drive: OK: Archive backup_2019-12-10-1524_Myblog_0df6f28d7d15-plugins.zip uploaded in 20.4 seconds
+0063.505 (0) Recording as successfully uploaded: backup_2019-12-10-1524_Myblog_0df6f28d7d15-plugins.zip
+0063.593 (0) Deleting local file: backup_2019-12-10-1524_Myblog_0df6f28d7d15-plugins.zip: OK
+0064.125 (0) Google Drive: quota usage: used=194.9 MB, total=15360 MB, available=15165.1 MB
+0064.146 (0) Google Drive: backup_2019-12-10-1524_Myblog_0df6f28d7d15-themes.zip: Attempting to upload to Google Drive (into folder id: 1IoZjmjwYKYw5rcyWcUXJwoGfFfzqNTuR)
+0065.562 (0) Googledrive chunked upload: 16.9 % uploaded (1048576)
+0066.301 (0) Googledrive chunked upload: 33.7 % uploaded (2097152)
+0067.206 (0) Googledrive chunked upload: 50.6 % uploaded (3145728)
+0068.028 (0) Googledrive chunked upload: 67.4 % uploaded (4194304)
+0068.792 (0) Googledrive chunked upload: 84.3 % uploaded (5242880)
+0070.683 (0) Googledrive chunked upload: 100 % uploaded (5242880)
+0070.781 (0) Google Drive: OK: Archive backup_2019-12-10-1524_Myblog_0df6f28d7d15-themes.zip uploaded in 6.61 seconds
+0070.816 (0) Recording as successfully uploaded: backup_2019-12-10-1524_Myblog_0df6f28d7d15-themes.zip
+0070.884 (0) Deleting local file: backup_2019-12-10-1524_Myblog_0df6f28d7d15-themes.zip: OK
+0071.486 (0) Google Drive: quota usage: used=200.8 MB, total=15360 MB, available=15159.2 MB
+0071.525 (0) Google Drive: backup_2019-12-10-1524_Myblog_0df6f28d7d15-uploads.zip: Attempting to upload to Google Drive (into folder id: 1IoZjmjwYKYw5rcyWcUXJwoGfFfzqNTuR)
+0072.949 (0) Googledrive chunked upload: 34.8 % uploaded (1048576)
+0073.772 (0) Googledrive chunked upload: 69.6 % uploaded (2097152)
+0075.803 (0) Googledrive chunked upload: 100 % uploaded (2097152)
+0075.894 (0) Google Drive: OK: Archive backup_2019-12-10-1524_Myblog_0df6f28d7d15-uploads.zip uploaded in 4.33 seconds
+0075.926 (0) Recording as successfully uploaded: backup_2019-12-10-1524_Myblog_0df6f28d7d15-uploads.zip
+0075.991 (0) Deleting local file: backup_2019-12-10-1524_Myblog_0df6f28d7d15-uploads.zip: OK
+0076.648 (0) Google Drive: quota usage: used=203.7 MB, total=15360 MB, available=15156.3 MB
+0076.733 (0) Google Drive: backup_2019-12-10-1524_Myblog_0df6f28d7d15-others.zip: Attempting to upload to Google Drive (into folder id: 1IoZjmjwYKYw5rcyWcUXJwoGfFfzqNTuR)
+0079.149 (0) Googledrive chunked upload: 100 % uploaded
+0079.250 (0) Google Drive: OK: Archive backup_2019-12-10-1524_Myblog_0df6f28d7d15-others.zip uploaded in 2.39 seconds
+0079.270 (0) Recording as successfully uploaded: backup_2019-12-10-1524_Myblog_0df6f28d7d15-others.zip
+0079.352 (0) Deleting local file: backup_2019-12-10-1524_Myblog_0df6f28d7d15-others.zip: OK
+0079.899 (0) Google Drive: quota usage: used=203.7 MB, total=15360 MB, available=15156.3 MB
+0079.980 (0) Google Drive: backup_2019-12-10-1524_Myblog_0df6f28d7d15-db.gz: Attempting to upload to Google Drive (into folder id: 1IoZjmjwYKYw5rcyWcUXJwoGfFfzqNTuR)
+0082.305 (0) Googledrive chunked upload: 100 % uploaded
+0082.414 (0) Google Drive: OK: Archive backup_2019-12-10-1524_Myblog_0df6f28d7d15-db.gz uploaded in 2.41 seconds
+0082.449 (0) Recording as successfully uploaded: backup_2019-12-10-1524_Myblog_0df6f28d7d15-db.gz
+0082.495 (0) Deleting local file: backup_2019-12-10-1524_Myblog_0df6f28d7d15-db.gz: OK
+0082.580 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0082.616 (0) Number of backup sets in history: 2; groups (db): 1
+0082.636 (0) Examining (for databases) backup set with group_id=0, nonce=0df6f28d7d15, datestamp=1575991451 (Dec 10 2019 15:24:11)
+0082.671 (0) This backup set is the backup set just made, so will not be deleted.
+0082.671 (0) Examining (for databases) backup set with group_id=0, nonce=909826eea33a, datestamp=1575987371 (Dec 10 2019 14:16:11)
+0082.671 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0082.702 (0) Number of backup sets in history: 2; groups (files): 1
+0082.727 (0) Examining (for files) backup set with nonce=0df6f28d7d15, datestamp=1575991451 (Dec 10 2019 15:24:11)
+0082.727 (0) This backup set is the backup set just made, so will not be deleted.
+0082.758 (0) This backup set is the backup set just made, so will not be deleted.
+0082.758 (0) This backup set is the backup set just made, so will not be deleted.
+0082.758 (0) This backup set is the backup set just made, so will not be deleted.
+0082.758 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0082.794 (0) Examining (for files) backup set with nonce=909826eea33a, datestamp=1575987371 (Dec 10 2019 14:16:11)
+0082.794 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0082.794 (0) Retain: saving new backup history (sets now: 2) and finishing retain operation
+0082.860 (0) Resume backup (0df6f28d7d15, 0): finish run
+0082.947 (0) Decremented the semaphore (fd) by 1
+0083.025 (0) Semaphore (fd) unlocked
+0083.149 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
+0083.447 (0) No email will/can be sent - the user has not configured an email address.
+0083.505 (0) The backup apparently succeeded and is now complete
